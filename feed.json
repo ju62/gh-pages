@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Justus und Lea heiraten",
+    "description": "",
+    "home_page_url": "https://ju62.github.io/gh-pages",
+    "feed_url": "https://ju62.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Justus und Lea"
+    },
+    "items": [
+        {
+            "id": "https://ju62.github.io/gh-pages/lea-und-justus-heiraten.html",
+            "url": "https://ju62.github.io/gh-pages/lea-und-justus-heiraten.html",
+            "title": "Lea und Justus heiraten",
+            "summary": "Wir heiraten.",
+            "content_html": "<p>Wir heiraten.</p>",
+            "author": {
+                "name": "Justus und Lea"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-31T00:30:48+01:00",
+            "date_modified": "2026-01-31T00:30:48+01:00"
+        }
+    ]
+}
