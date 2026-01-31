@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Lea und Justus heiraten",
     "description": "",
-    "home_page_url": "https://ju62.github.io/gh-pages",
-    "feed_url": "https://ju62.github.io/gh-pages/feed.json",
+    "home_page_url": "https://lea-und-justus-heiraten.github.io/gh-pages",
+    "feed_url": "https://lea-und-justus-heiraten.github.io/gh-pages/feed.json",
     "user_comment": "",
     "author": {
         "name": "Justus und Lea"
     },
     "items": [
         {
-            "id": "https://ju62.github.io/gh-pages/ein-posi.html",
-            "url": "https://ju62.github.io/gh-pages/ein-posi.html",
+            "id": "https://lea-und-justus-heiraten.github.io/gh-pages/ein-posi.html",
+            "url": "https://lea-und-justus-heiraten.github.io/gh-pages/ein-posi.html",
             "title": "Ein Posi",
             "summary": "whats going on?",
             "content_html": "<p>whats going on?</p>",
