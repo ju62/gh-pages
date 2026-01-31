@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Justus und Lea heiraten</title>
+    <title>Lea und Justus heiraten</title>
     <link href="https://ju62.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://ju62.github.io/gh-pages" />
-    <updated>2026-01-31T08:38:34+01:00</updated>
+    <updated>2026-02-01T00:29:38+01:00</updated>
     <author>
         <name>Justus und Lea</name>
     </author>
     <id>https://ju62.github.io/gh-pages</id>
 
     <entry>
-        <title>Das Programm</title>
+        <title>Ein Posi</title>
         <author>
             <name>Justus und Lea</name>
         </author>
-        <link href="https://ju62.github.io/gh-pages/lea-und-justus-heiraten.html"/>
-        <id>https://ju62.github.io/gh-pages/lea-und-justus-heiraten.html</id>
+        <link href="https://ju62.github.io/gh-pages/ein-posi.html"/>
+        <id>https://ju62.github.io/gh-pages/ein-posi.html</id>
 
-        <updated>2026-01-31T00:30:48+01:00</updated>
-            <summary></summary>
+        <updated>2026-02-01T00:29:38+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    whats going on?
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://ju62.github.io/gh-pages/media/posts/1/IMG_20251011_082115.jpg" alt="" width="3456" height="4608" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://ju62.github.io/gh-pages/media/posts/1/responsive/IMG_20251011_082115-xs.jpg 640w ,https://ju62.github.io/gh-pages/media/posts/1/responsive/IMG_20251011_082115-sm.jpg 768w ,https://ju62.github.io/gh-pages/media/posts/1/responsive/IMG_20251011_082115-md.jpg 1024w ,https://ju62.github.io/gh-pages/media/posts/1/responsive/IMG_20251011_082115-lg.jpg 1366w ,https://ju62.github.io/gh-pages/media/posts/1/responsive/IMG_20251011_082115-xl.jpg 1600w ,https://ju62.github.io/gh-pages/media/posts/1/responsive/IMG_20251011_082115-2xl.jpg 1920w"></figure>
+                <p>whats going on?</p>
             ]]>
         </content>
     </entry>

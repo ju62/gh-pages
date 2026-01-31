@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Justus und Lea heiraten",
+    "title": "Lea und Justus heiraten",
     "description": "",
     "home_page_url": "https://ju62.github.io/gh-pages",
     "feed_url": "https://ju62.github.io/gh-pages/feed.json",
@@ -10,17 +10,18 @@
     },
     "items": [
         {
-            "id": "https://ju62.github.io/gh-pages/lea-und-justus-heiraten.html",
-            "url": "https://ju62.github.io/gh-pages/lea-und-justus-heiraten.html",
-            "title": "Das Programm",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ju62.github.io/gh-pages/media/posts/1/IMG_20251011_082115.jpg\" alt=\"\" width=\"3456\" height=\"4608\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://ju62.github.io/gh-pages/media/posts/1/responsive/IMG_20251011_082115-xs.jpg 640w ,https://ju62.github.io/gh-pages/media/posts/1/responsive/IMG_20251011_082115-sm.jpg 768w ,https://ju62.github.io/gh-pages/media/posts/1/responsive/IMG_20251011_082115-md.jpg 1024w ,https://ju62.github.io/gh-pages/media/posts/1/responsive/IMG_20251011_082115-lg.jpg 1366w ,https://ju62.github.io/gh-pages/media/posts/1/responsive/IMG_20251011_082115-xl.jpg 1600w ,https://ju62.github.io/gh-pages/media/posts/1/responsive/IMG_20251011_082115-2xl.jpg 1920w\"></figure>",
+            "id": "https://ju62.github.io/gh-pages/ein-posi.html",
+            "url": "https://ju62.github.io/gh-pages/ein-posi.html",
+            "title": "Ein Posi",
+            "summary": "whats going on?",
+            "content_html": "<p>whats going on?</p>",
             "author": {
                 "name": "Justus und Lea"
             },
             "tags": [
             ],
-            "date_published": "2026-01-31T00:30:48+01:00",
-            "date_modified": "2026-01-31T08:38:34+01:00"
+            "date_published": "2026-02-01T00:29:38+01:00",
+            "date_modified": "2026-02-01T00:29:38+01:00"
         }
     ]
 }
